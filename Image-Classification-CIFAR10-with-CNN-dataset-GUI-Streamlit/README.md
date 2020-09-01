@@ -1,4 +1,4 @@
-https://github.com/Jeevan-Thukrul/MLII_Lab_2020_21/blob/Jeevan/Image-Classification-CIFAR10-with-Feedforward-Neural-Network-dataset-GUI-Streamlit/Output/loss.png# Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit
+Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit
 
 ## App Output
 ![alt text](Output/2173244_CIFAR10_CNN.gif)
@@ -7,7 +7,7 @@ https://github.com/Jeevan-Thukrul/MLII_Lab_2020_21/blob/Jeevan/Image-Classificat
 ## Training and Testing Accurcy
 - Train accuracy: 0.8148
 - Test accuracy: 0.6892 </br>
-![alt text](https://github.com/Jeevan-Thukrul/MLII_Lab_2020_21/blob/Jeevan/Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit/Output/2173244_CIFAR10_CNN.gif)
+![alt text](https://github.com/Jeevan-Thukrul/MLII_Lab_2020_21/blob/Jeevan/Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit/Output/Accuracy.png)
 
 ## Training and Testing Loss
 - Train loss: 0.5378
