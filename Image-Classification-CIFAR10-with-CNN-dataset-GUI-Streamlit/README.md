@@ -4,7 +4,7 @@
 **Class- IS 2, BE - CSE.**<br/>
 **Roll.no.- 2173244.**<br/>
 **En.no.- MITU17BTCS0216.**<br/>
----
+
 # Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit
 
 ## App Output
