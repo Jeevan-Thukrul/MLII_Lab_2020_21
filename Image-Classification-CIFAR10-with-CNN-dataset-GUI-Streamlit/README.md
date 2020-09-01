@@ -12,7 +12,7 @@
 ## Training and Testing Loss
 - Train loss: 0.5378
 - Test loss: 0.7659 </br>
-![alt text](https://github.com/Jeevan-Thukrul/Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit/blob/master/Output/loss.png)
+![alt text](https://github.com/Jeevan-Thukrul/MLII_Lab_2020_21/blob/Jeevan/Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit/Output/Accuracy.png)
 
 ## Project overview
 - The aim of this project is to develop a model for Image classification and integrate it with the GUI, 
