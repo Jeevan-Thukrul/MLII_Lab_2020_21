@@ -1,4 +1,4 @@
-# Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit
+https://github.com/Jeevan-Thukrul/MLII_Lab_2020_21/blob/Jeevan/Image-Classification-CIFAR10-with-Feedforward-Neural-Network-dataset-GUI-Streamlit/Output/loss.png# Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit
 
 ## App Output
 ![alt text](Output/2173244_CIFAR10_CNN.gif)
@@ -7,12 +7,12 @@
 ## Training and Testing Accurcy
 - Train accuracy: 0.8148
 - Test accuracy: 0.6892 </br>
-![alt text](https://github.com/Jeevan-Thukrul/Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit/blob/master/Output/Accuracy.png)
+![alt text](https://github.com/Jeevan-Thukrul/MLII_Lab_2020_21/blob/Jeevan/Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit/Output/2173244_CIFAR10_CNN.gif)
 
 ## Training and Testing Loss
 - Train loss: 0.5378
 - Test loss: 0.7659 </br>
-![alt text](https://github.com/Jeevan-Thukrul/MLII_Lab_2020_21/blob/Jeevan/Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit/Output/Accuracy.png)
+![alt text](https://github.com/Jeevan-Thukrul/MLII_Lab_2020_21/blob/Jeevan/Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit/Output/loss.png)
 
 ## Project overview
 - The aim of this project is to develop a model for Image classification and integrate it with the GUI, 
