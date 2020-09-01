@@ -7,12 +7,12 @@
 ## Training and Testing Accurcy
 - Train accuracy: 0.5414
 - Test accuracy: 0.5042 </br>
-![alt text](https://github.com/Jeevan-Thukrul/Image-Classification-CIFAR10-with-Feedforward-Neural-Network-dataset-GUI-Streamlit/blob/master/Output/Accuracy.png)
+![alt text](https://github.com/Jeevan-Thukrul/MLII_Lab_2020_21/blob/Jeevan/Image-Classification-CIFAR10-with-Feedforward-Neural-Network-dataset-GUI-Streamlit/Output/Accuracy.png)
 
 ## Training and Testing Loss
 - Train loss: 1.2841
 - Test loss: 1.3964 </br>
-![alt text](https://github.com/Jeevan-Thukrul/Image-Classification-CIFAR10-with-Feedforward-Neural-Network-dataset-GUI-Streamlit/blob/master/Output/loss.png)
+![alt text](https://github.com/Jeevan-Thukrul/MLII_Lab_2020_21/blob/Jeevan/Image-Classification-CIFAR10-with-Feedforward-Neural-Network-dataset-GUI-Streamlit/Output/loss.png)
 
 ## Project overview
 - The aim of this project is to develop a model for Image classification and integrate it with the GUI, 
